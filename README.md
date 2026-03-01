@@ -24,6 +24,7 @@
 <ul>
   <li>🎓 Student with a passion for programming and a desire to grow.</li>
   <li>🌱 I've completed the basics of <strong>HTML and CSS</strong> and am now focusing on strengthening my skills.</li>
+  <li>🔧 I also direct the development of open source projects using AI as a coding tool.</li>
   <li>🎯 Goal: become an <strong>experienced full-stack developer</strong>, able to create elegant and efficient solutions.</li>
   <li>🤝 I love the concept of <strong>open source</strong>: creating something unique and sharing it with everyone.</li>
   <li>⚡ Fun fact: I like experimenting with crazy ideas, even if sometimes the code decides to put on its own show! 😅</li>
@@ -32,7 +33,8 @@
 <div align="center" style="margin-top:8px; margin-bottom:8px;">
   <strong style="font-size:1.05em;">What I'm doing now</strong>
   <ul style="list-style:none; padding:8px 0 0 0; margin:0;">
-    <li style="margin:4px 0;">🏗️ <strong>Solidifying CSS & Responsive Design</strong></li>
+    <li style="margin:4px 0;">🚀 <strong>Directing <a href="https://github.com/TyKolt/kremis">Kremis</a></strong> — open source AI memory tool</li>
+    <li style="margin:4px 0;">🏗️ <strong>Solidifying CSS &amp; Responsive Design</strong></li>
     <li style="margin:4px 0;">⏳ <strong>JavaScript</strong> <em>(Next big step)</em></li>
   </ul>
 </div>
@@ -51,7 +53,7 @@
   </a>
 </p>
 
-<h2 align="center">⚙️ Tools & Workflow</h2>
+<h2 align="center">⚙️ Tools &amp; Workflow</h2>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="48">
@@ -71,6 +73,13 @@
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48">
   </a>
 </p>
+
+<hr />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TyKolt&show_icons=true&theme=dark&hide_border=true" alt="TyKolt's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyKolt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 <hr />
 
