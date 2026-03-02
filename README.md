@@ -30,13 +30,11 @@
   <li>⚡ Fun fact: I like experimenting with crazy ideas, even if sometimes the code decides to put on its own show! 😅</li>
 </ul>
 
-<div align="center" style="margin-top:8px; margin-bottom:8px;">
-  <strong style="font-size:1.05em;">What I'm doing now</strong>
-  <ul style="list-style:none; padding:8px 0 0 0; margin:0;">
-    <li style="margin:4px 0;">🚀 <strong>Directing <a href="https://github.com/TyKolt/kremis">Kremis</a></strong> — open source AI memory tool</li>
-    <li style="margin:4px 0;">🏗️ <strong>Solidifying CSS &amp; Responsive Design</strong></li>
-    <li style="margin:4px 0;">⏳ <strong>JavaScript</strong> <em>(Next big step)</em></li>
-  </ul>
+<div align="center">
+  <strong>What I'm doing now</strong>
+  <p>🚀 <strong>Directing <a href="https://github.com/TyKolt/kremis">Kremis</a></strong> — open source AI memory tool</p>
+  <p>🏗️ <strong>Solidifying CSS &amp; Responsive Design</strong></p>
+  <p>⏳ <strong>JavaScript</strong> <em>(Next big step)</em></p>
 </div>
 
 <hr />
