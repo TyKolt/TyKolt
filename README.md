@@ -29,7 +29,7 @@
 
 > A deterministic graph-based memory system for AI agents. I direct the development using AI as a coding companion — exploring Rust through hands-on project building.
 
-**Status:** 🟡 Experimental &nbsp;|&nbsp; **Built with:** Rust, redb &nbsp;|&nbsp; **License:** Apache 2.0
+**Status:** 🟡 Alpha &nbsp;|&nbsp; **Built with:** Rust, redb &nbsp;|&nbsp; **License:** Apache 2.0
 
 [**View Repository →**](https://github.com/TyKolt/kremis)
 
@@ -46,7 +46,7 @@
 
 ## 🚀 What I'm Doing Now
 
-- 🟡 **[Kremis](https://github.com/TyKolt/kremis)** — Deterministic AI memory system *(Experimental)*
+- 🟡 **[Kremis](https://github.com/TyKolt/kremis)** — Deterministic AI memory system *(Alpha)*
 - 🟢 **HTML & CSS** — Strengthening frontend fundamentals *(Practicing)*
 - ⏳ **JavaScript** — Next big step in my journey *(Coming Next)*
 
