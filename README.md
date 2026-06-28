@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=38&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=100&lines=Hi+there!;I'm+TyKolt;Building+Open+Source" alt="Typing SVG" />
-  </a>
+  <img src="./assets/github-header.svg" alt="TyKolt — Minimal but powerful." width="760">
 </div>
 
 <p align="center">
@@ -9,15 +7,12 @@
 </p>
 
 <p align="center">
-  Currently strengthening my <strong>HTML & CSS</strong> skills through practice and projects, leveraging AI to accelerate learning. 🔥💻🚀
+  Currently strengthening my <strong>HTML &amp; CSS</strong> skills through practice and projects, leveraging AI to accelerate learning. 🔥💻🚀
 </p>
 
 <div align="center">
-  <a href="https://x.com/TyKoltDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/x/white" alt="X" height="40" width="40" style="background-color: #212121; border-radius: 10px; padding: 6px; margin: 0 4px;">
-  </a>
-  <a href="https://reddit.com/user/TyKolt" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/reddit/white" alt="Reddit" height="40" width="40" style="background-color: #212121; border-radius: 10px; padding: 6px; margin: 0 4px;">
+  <a href="https://tykolt.pages.dev" target="_blank" rel="noopener noreferrer" title="tykolt.pages.dev — the hub">
+    <img src="./assets/icons/web.svg" alt="tykolt.pages.dev" height="44" width="44">
   </a>
 </div>
 
@@ -29,7 +24,7 @@
 
 > A deterministic graph-based memory system for AI agents. I direct the development using AI as a coding companion — exploring Rust through hands-on project building.
 
-**Status:** 🟡 Alpha &nbsp;|&nbsp; **Built with:** Rust, redb &nbsp;|&nbsp; **License:** Apache 2.0
+<img src="./assets/icons/status-alpha.svg" height="13" align="center" alt="Alpha"> **Alpha** &nbsp;|&nbsp; **Built with:** Rust, redb &nbsp;|&nbsp; **License:** Apache 2.0
 
 [**View Repository →**](https://github.com/TyKolt/kremis)
 
@@ -46,9 +41,9 @@
 
 ## 🚀 What I'm Doing Now
 
-- 🟡 **[Kremis](https://github.com/TyKolt/kremis)** — Deterministic AI memory system *(Alpha)*
-- 🟢 **HTML & CSS** — Strengthening frontend fundamentals *(Practicing)*
-- ⏳ **JavaScript** — Next big step in my journey *(Coming Next)*
+- <img src="./assets/icons/status-alpha.svg" height="13" align="center" alt="Alpha"> **[Kremis](https://github.com/TyKolt/kremis)** — Deterministic AI memory system *(Alpha)*
+- <img src="./assets/icons/status-active.svg" height="13" align="center" alt="Active"> **HTML & CSS** — Strengthening frontend fundamentals *(Practicing)*
+- <img src="./assets/icons/status-next.svg" height="13" align="center" alt="Next"> **JavaScript** — Next big step in my journey *(Coming Next)*
 
 ---
 
@@ -57,37 +52,25 @@
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend Skills" height="48">
+  <img src="./assets/icons/html.svg" alt="HTML" height="48" width="48">
+  <img src="./assets/icons/css.svg" alt="CSS" height="48" width="48">
 </p>
 
 ### ⚙️ Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools" height="48">
+  <img src="./assets/icons/git.svg" alt="Git" height="48" width="48">
+  <img src="./assets/icons/github.svg" alt="GitHub" height="48" width="48">
 </p>
 
 ### 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48">
+  <img src="./assets/icons/js.svg" alt="JavaScript" height="48" width="48">
   <br><em>JavaScript — Next step in my journey</em>
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TyKolt&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyKolt&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="160">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TyKolt&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
--->
 
 <div align="center">
 
@@ -96,3 +79,5 @@
 Check out **[Kremis](https://github.com/TyKolt/kremis)** and follow my journey! 🚀
 
 </div>
+
+---

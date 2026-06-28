@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18" role="img" aria-label="Alpha">
+  <!-- Status marker, shape-encoded (colour stays reserved to the cyan accent):
+       hollow ring = alpha / experimental. -->
+  <circle cx="9" cy="9" r="5.5" fill="none" stroke="#00E5FF" stroke-width="2"/>
+</svg>
